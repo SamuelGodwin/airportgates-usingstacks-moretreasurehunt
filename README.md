@@ -6,7 +6,7 @@ Where you are to write functions, ensure you use constness and references where 
 
 Note this coursework has a split deadline: an earlier deadline for the airport gates and stacks question; and a later deadline for 'treasure hunt, continued'.
 
-# Calculating how many airport gates are needed [3 marks]
+# Calculating how many airport gates are needed
 
 The arrival and departure times of planes at an airport can be defined by a pair of vectors:
 
@@ -61,7 +61,7 @@ To test your implementation, use TestMaximumGates.cpp.  To compile to an executa
 `g++ -std=c++11 -o TestMaximumGates TestMaximumGates.cpp`  
 
 
-# Using stacks [4 marks]
+# Using stacks
 
 In `Stack.h`, implement a class `Stack` that is a Stack of `double`s.  You should implement this using the provided `pep::vector` class: Stack.h already contains the necessary `include` and `using` lines for this.
 
@@ -99,7 +99,7 @@ Notes:
 
 - `std::stod(s)` will convert the string `s` into a double, and return its value
 
-# Treasure hunt, continued [3 marks]
+# Treasure hunt, continued
 
 This is the advanced part of this assignment -- note it has a later deadline than the earlier parts.
 
