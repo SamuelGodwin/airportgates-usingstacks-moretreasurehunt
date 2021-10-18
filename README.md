@@ -1,5 +1,7 @@
 # Further C++ practice
 
+![](./TestMaximumGates.gif)
+
 More practice working with the basic building blocks of C++: vectors, functions, and classes ensuring use of constness and references where appropriate, to avoid needlessly copying objects.
 
 Run TestMaximumGates.cpp.
